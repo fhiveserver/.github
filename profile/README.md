@@ -61,7 +61,7 @@ $patient = Flier::resource('Patient')
 
 Mantemos um servidor FHIR R4 disponível publicamente em:
 
-**[https://dev.fhir.app/fhir/R4/metadata](https://dev.fhir.app/fhir/R4/metadata)**
+**[https://dev.fhive.app/fhir/R4/metadata](https://dev.fhive.app/fhir/R4/metadata)**
 
 Você pode usá-lo para explorar a API, testar integrações e experimentar o padrão FHIR na prática.
 
